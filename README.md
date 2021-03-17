@@ -15,10 +15,43 @@ The project consists of a line-up system (CLup), implemented as a backend, websi
 
 It's a system that lets customers book and line-up to their preferred supermarkets and grocery shops.
 
+You can find the full specification [here](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/blob/main/specs).
+
+The final version includes:
+* Requirement Analysis and Specification Document (RASD);
+* Design Document (DD);
+* Implementation Document (ID);
+* Acceptance Testing Document (ATD);
+* backend Spring Boot Application;
+* WebApp;
+* Flutter MobileApp.
 
 
 
+## The Team
+* [Alice Piemonti](https://github.com/AlicePiemonti)
+* [Luca Pirovano](https://github.com/PiroX4256)
+* [Nicolò Sonnino](https://github.com/S0NN1)
 
+## Software used
+**Adobe XD** - sequence diagrams
+
+  **AstahUML** - UML diagrams
+
+**Intellij IDEA Ultimate** - main Backend IDE 
+
+**Android Studio** - main Mobile IDE 
+
+**Visual Studio COde** - Latex editor
+
+**Moqups** - mockup designer website
+
+## Copyright and license
+
+Santorini Board Game is copyright 2020.
+
+Licensed under the **[MIT License](https://github.com/S0NN1/ing-sw-2020-piemonti-pirovano-sonnino/blob/master/LICENSE)** ;
+you may not use this software except in compliance with the License.
 
 
 
