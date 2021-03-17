@@ -34,8 +34,8 @@ The final version includes:
 | DD | [![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/DD) |
 | ID |[![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT) |
 | ATD | [![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/AT) |
-| Backend/WebApp |[![GREEN](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT/Implementation/Backend) |
-| MobileApp | [![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT/Implementation/MobileApp/c_lup)|
+| Backend/WebApp | [![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT/Implementation/Backend) |
+| MobileApp | [![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT/Implementation/MobileApp/c_lup) |
 | Booking functionality | [![RED](https://placehold.it/15/f03c15/f03c15)]() |
 
 #### Legend
