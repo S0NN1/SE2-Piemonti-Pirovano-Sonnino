@@ -27,6 +27,20 @@ The final version includes:
 * Flutter MobileApp.
 
 
+## Implemented Functionalities
+| Functionality | Status |
+|:-----------------------|:------------------------------------:|
+| RASD | [![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/RASD) |
+| DD | [![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/DD) |
+| ID |[![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT) |
+| ATD | [![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/AT) |
+| Backend/WebApp |[![GREEN](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT/Implementation/Backend) |
+| MobileApp | [![GREEN](https://placehold.it/15/44bb44/44bb44)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT/Implementation/MobileApp/c_lup)|
+| Booking functionality | [![RED](https://placehold.it/15/f03c15/f03c15)]() |
+
+#### Legend
+[![RED](https://placehold.it/15/f03c15/f03c15)]() Not Implemented &nbsp;&nbsp;&nbsp;&nbsp;[![YELLOW](https://placehold.it/15/ffdd00/ffdd00)]() Implementing&nbsp;&nbsp;&nbsp;&nbsp;[![GREEN](https://placehold.it/15/44bb44/44bb44)]() Implemented
+
 
 ## The Team
 * [Alice Piemonti](https://github.com/AlicePiemonti)
@@ -42,15 +56,14 @@ The final version includes:
 
 **Android Studio** - main Mobile IDE 
 
-**Visual Studio COde** - Latex editor
+**Visual Studio Code** - Latex editor
 
 **Moqups** - mockup designer website
 
 ## Copyright and license
+CLup: Customer Line Up is copyrighted 2021.
 
-Santorini Board Game is copyright 2020.
-
-Licensed under the **[MIT License](https://github.com/S0NN1/ing-sw-2020-piemonti-pirovano-sonnino/blob/master/LICENSE)** ;
+Licensed under the **[MIT License](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/blob/main/LICENSE)** ;
 you may not use this software except in compliance with the License.
 
 
