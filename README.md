@@ -23,9 +23,11 @@ The final version includes:
 * Implementation Document (ID);
 * Acceptance Testing Document (ATD);
 * backend Spring Boot Application;
-* WebApp;
-* Flutter MobileApp.
+* Web App;
+* Flutter Mobile App.
 
+## Installation Instructions 
+Check out in our [**wiki**](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/wiki).
 
 ## Implemented Functionalities
 | Functionality | Status |
