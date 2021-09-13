@@ -4,7 +4,7 @@
 ![latest release](https://img.shields.io/github/v/release/PiroX4256/SE2-Piemonti-Pirovano-Sonnino?color=green)
 <img src="https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/blob/main/RASD/assets/queue.svg" width=192 height=192 align="right"/>
 
-Santorini Board Game is the final test of **"Software Engineering 2"**, course of **"Computer Science Engineering"** held at Politecnico di Milano (2020/2021).
+CLup - Customer Line Up is the final test of **"Software Engineering 2"**, course of **"Computer Science Engineering"** held at Politecnico di Milano (2020/2021).
 
 **Teacher** Matteo Giovanni Rossi
 
