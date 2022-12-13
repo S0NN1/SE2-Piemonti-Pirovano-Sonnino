@@ -32,16 +32,16 @@ Check out in our [**wiki**](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonni
 ## Implemented Functionalities
 | Functionality | Status |
 |:-----------------------|:------------------------------------:|
-| RASD | [![GREEN](https://via.placeholder.com/20/64dd17?text=+)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/RASD) |
-| DD | [![GREEN](https://via.placeholder.com/20/64dd17?text=+)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/DD) |
-| ID |[![GREEN](https://via.placeholder.com/20/64dd17?text=+)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT) |
-| ATD | [![GREEN](https://via.placeholder.com/20/64dd17?text=+)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/AT) |
-| Backend/WebApp | [![GREEN](https://via.placeholder.com/20/64dd17?text=+)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT/Implementation/Backend) 
-| MobileApp | [![GREEN](https://via.placeholder.com/20/64dd17?text=+)](https://github.com/S0NN1/SE2-Piemonti-Pirovano-Sonnino/tree/main/IT/Implementation/MobileApp/c_lup) |
-| Booking functionality | [![RED](https://via.placeholder.com/20/d50000?text=+)]() |
+| RASD | [✅](/RASD) |
+| DD | [✅](/DD) |
+| ID |[✅](/IT) |
+| ATD | [✅](/AT) |
+| Backend/WebApp | [✅](/IT/Implementation/Backend) 
+| MobileApp | [✅](/IT/Implementation/MobileApp/c_lup) |
+| Booking functionality | ❌ |
 
 #### Legend
-[![RED](https://via.placeholder.com/20/d50000?text=+)]() Not Implemented &nbsp;&nbsp;&nbsp;&nbsp;[![YELLOW](https://via.placeholder.com/20/fbc02d?text=+)]() Implementing&nbsp;&nbsp;&nbsp;&nbsp;[![GREEN](https://via.placeholder.com/20/64dd17?text=+)]() Implemented
+❌ Not Implemented &nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Implementing&nbsp;&nbsp;&nbsp;&nbsp;✅ Implemented
 
 
 ## The Team
